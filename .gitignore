@@ -21,3 +21,4 @@ Vocabulary/ORBvoc.txt
 build/
 *~
 lib/
+trajectory_*
